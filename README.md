@@ -1,3 +1,4 @@
 # Escolhe-Jogos
 
-<h1>-- Bem vindo ao Escolhe-Jogos --<h1\>
+<h1 style = "text-align: center;">-- Bem vindo ao Escolhe-Jogos --<h1\>
+
